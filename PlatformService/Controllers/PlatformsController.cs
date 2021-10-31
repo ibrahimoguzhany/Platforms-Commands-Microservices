@@ -53,7 +53,6 @@ namespace PlatformService.Controllers
 
             return CreatedAtRoute(nameof(GetPlatformById), new { Id = platformReadDto.Id }, platformReadDto);
 
-
         }
 
         [HttpPost("Update")]
@@ -67,6 +66,4 @@ namespace PlatformService.Controllers
             return Ok(platformReadDto);
         }
     }
-
-
 }
