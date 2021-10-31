@@ -6044,11 +6044,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/oguzhanyilmaz/Projects/microservicecourse/PlatformService/PlatformService.csproj",
+      "projectUniqueName": "/Users/oguzhanyilmaz/Projects/Platforms-Commands-Microservices/PlatformService/PlatformService.csproj",
       "projectName": "PlatformService",
-      "projectPath": "/Users/oguzhanyilmaz/Projects/microservicecourse/PlatformService/PlatformService.csproj",
+      "projectPath": "/Users/oguzhanyilmaz/Projects/Platforms-Commands-Microservices/PlatformService/PlatformService.csproj",
       "packagesPath": "/Users/oguzhanyilmaz/.nuget/packages/",
-      "outputPath": "/Users/oguzhanyilmaz/Projects/microservicecourse/PlatformService/obj/",
+      "outputPath": "/Users/oguzhanyilmaz/Projects/Platforms-Commands-Microservices/PlatformService/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

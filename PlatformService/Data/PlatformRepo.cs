@@ -37,5 +37,14 @@ namespace PlatformService.Data
         {
             return (_context.SaveChanges() >= 0);
         }
+
+        public void UpdatePlatform(Platform plat)
+        {
+            Platform toBeUpdatedPlatform = GetPlatformById(plat.Id);
+
+            _context.Platforms.Update(toBeUpdatedPlatform).CurrentValues.SetValues(plat);
+
+            _context.SaveChanges();
+        }
     }
 }

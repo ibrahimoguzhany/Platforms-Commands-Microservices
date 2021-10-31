@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qnk5Z/ZdGvaCeik6QGvhMKyOcUAzlw+Yev2K0v+PISj+xiu15T6qtBw0hNjW+gVGw4zO5X6ERVl2NVewwkDI+A==",
+  "dgSpecHash": "9wL/F0Tac7BZPnkr5s8FJUoipLu86J1czYxM5j+QwS4pvjUjAKLWehIFZIgYaUZQf2YLvRGsGgGTW6tzKlL5WQ==",
   "success": true,
-  "projectFilePath": "/Users/oguzhanyilmaz/Projects/microservicecourse/PlatformService/PlatformService.csproj",
+  "projectFilePath": "/Users/oguzhanyilmaz/Projects/Platforms-Commands-Microservices/PlatformService/PlatformService.csproj",
   "expectedPackageFiles": [
     "/Users/oguzhanyilmaz/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
     "/Users/oguzhanyilmaz/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
