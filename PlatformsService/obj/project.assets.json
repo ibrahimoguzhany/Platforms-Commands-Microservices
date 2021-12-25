@@ -6038,21 +6038,17 @@
     ]
   },
   "packageFolders": {
-    "/Users/oguzhanyilmaz/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "/Users/oguzhanyilmaz/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/oguzhanyilmaz/Projects/Platforms-Commands-Microservices/PlatformService/PlatformService.csproj",
+      "projectUniqueName": "/Users/oguzhanyilmaz/Desktop/Projects/platforms-services/Platforms-Commands-Microservices/PlatformsService/PlatformService.csproj",
       "projectName": "PlatformService",
-      "projectPath": "/Users/oguzhanyilmaz/Projects/Platforms-Commands-Microservices/PlatformService/PlatformService.csproj",
+      "projectPath": "/Users/oguzhanyilmaz/Desktop/Projects/platforms-services/Platforms-Commands-Microservices/PlatformsService/PlatformService.csproj",
       "packagesPath": "/Users/oguzhanyilmaz/.nuget/packages/",
-      "outputPath": "/Users/oguzhanyilmaz/Projects/Platforms-Commands-Microservices/PlatformService/obj/",
+      "outputPath": "/Users/oguzhanyilmaz/Desktop/Projects/platforms-services/Platforms-Commands-Microservices/PlatformsService/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "/Users/oguzhanyilmaz/.nuget/NuGet/NuGet.Config"
       ],
@@ -6115,6 +6111,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-x64",
+            "version": "[5.0.12, 5.0.12]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -6123,7 +6133,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }

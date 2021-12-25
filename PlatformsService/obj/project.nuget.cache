@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9wL/F0Tac7BZPnkr5s8FJUoipLu86J1czYxM5j+QwS4pvjUjAKLWehIFZIgYaUZQf2YLvRGsGgGTW6tzKlL5WQ==",
+  "dgSpecHash": "poTvW0hkiojLxXGslOiI76EMV/W5P9Qwqy0w42paoDL8EYDvoeizINV06tJntbhNmJlJiJi0ZxQ+IMLuF7sPWQ==",
   "success": true,
-  "projectFilePath": "/Users/oguzhanyilmaz/Projects/Platforms-Commands-Microservices/PlatformService/PlatformService.csproj",
+  "projectFilePath": "/Users/oguzhanyilmaz/Desktop/Projects/platforms-services/Platforms-Commands-Microservices/PlatformsService/PlatformService.csproj",
   "expectedPackageFiles": [
     "/Users/oguzhanyilmaz/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
     "/Users/oguzhanyilmaz/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
@@ -108,7 +108,10 @@
     "/Users/oguzhanyilmaz/.nuget/packages/system.xml.readerwriter/4.3.0/system.xml.readerwriter.4.3.0.nupkg.sha512",
     "/Users/oguzhanyilmaz/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
     "/Users/oguzhanyilmaz/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "/Users/oguzhanyilmaz/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "/Users/oguzhanyilmaz/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "/Users/oguzhanyilmaz/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/oguzhanyilmaz/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/oguzhanyilmaz/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.12/microsoft.netcore.app.host.osx-x64.5.0.12.nupkg.sha512"
   ],
   "logs": []
 }
